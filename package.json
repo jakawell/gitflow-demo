@@ -1,0 +1,26 @@
+{
+  "name": "gitflow-demo",
+  "version": "1.0.0",
+  "description": "A demo for using gitflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakawell/gitflow-demo.git"
+  },
+  "keywords": [
+    "demo",
+    "gitflow"
+  ],
+  "author": "Jesse Kawell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakawell/gitflow-demo/issues"
+  },
+  "homepage": "https://github.com/jakawell/gitflow-demo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
